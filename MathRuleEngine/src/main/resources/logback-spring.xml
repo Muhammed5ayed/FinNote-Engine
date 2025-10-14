@@ -1,0 +1,16 @@
+<configuration>
+
+    <!-- Appender خاص بالـ console -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <!-- شكل الرسالة -->
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- مستوى الـ root logger -->
+    <root level="debug">
+        <appender-ref ref="CONSOLE" />
+    </root>
+
+</configuration>

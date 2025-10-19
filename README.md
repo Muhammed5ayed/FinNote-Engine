@@ -17,7 +17,6 @@ The project currently consists of several main modules:
 - **SmartRuleEngine** – Core reasoning engine responsible for inferential logic.
 - **MathRuleEngine** – Main interface combining reasoning and mathematical features.
 - **Utility** – Helper library integrating Spring, Swing, and Bean extraction.
-- **MathFunction** – Provides mathematical operations and formula utilities.
 
 ### 🧠 Technology
 Built with **Spring Boot**, **JetBrains Annotations**, and **ANTLR** for efficient parsing and modularity.  
@@ -56,7 +55,6 @@ but you **must include proper attribution** to the original author and license n
 - **SmartRuleEngine** – المحرك المسئول عن التفكير الاستدلالي.
 - **MathRuleEngine** – الواجهة الأساسية التي تدمج القدرات الحسابية مع المنطقية.
 - **Utility** – مكتبة مساعدة تتكامل مع Spring و Swing.
-- **MathFunction** – تقدم العمليات الرياضية والدوال المساعدة.
 
 ### 🧠 التكنولوجيا المستخدمة
 تم بناء المحرك باستخدام **Spring Boot** و **JetBrains Annotations** و **ANTLR**  

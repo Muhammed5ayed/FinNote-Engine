@@ -9,11 +9,28 @@
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>Utility</artifactId>
+    <artifactId>functions</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.finnote</groupId>
+            <artifactId>conversion</artifactId>
+            <version>0.0.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.finnote</groupId>
+            <artifactId>utility</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+    </dependencies>
 </project>

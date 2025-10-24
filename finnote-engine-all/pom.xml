@@ -9,7 +9,7 @@
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>FinNote-Engine-all</artifactId>
+    <artifactId>finnote-engine-all</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -19,32 +19,32 @@
     <dependencies>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>Utility</artifactId>
+            <artifactId>utility</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>Conversion</artifactId>
+            <artifactId>conversion</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>Parser</artifactId>
+            <artifactId>parser</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>SmartRuleEngine</artifactId>
+            <artifactId>smartRuleEngine</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>Functions</artifactId>
+            <artifactId>functions</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>MathRuleEngine</artifactId>
+            <artifactId>mathRuleEngine</artifactId>
             <version>0.0.1</version>
         </dependency>
 

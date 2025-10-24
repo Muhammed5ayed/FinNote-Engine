@@ -16,13 +16,13 @@
         </license>
     </licenses>
     <modules>
-        <module>Conversion</module>
-        <module>Functions</module>
-        <module>Parser</module>
-        <module>SmartRuleEngine</module>
-        <module>MathRuleEngine</module>
-        <module>Utility</module>
-        <module>FinNote-Engine-all</module>
+        <module>conversion</module>
+        <module>functions</module>
+        <module>parser</module>
+        <module>smart-rule-engine</module>
+        <module>math-rule-engine</module>
+        <module>utility</module>
+        <module>finnote-engine-all</module>
     </modules>
 
     <properties>

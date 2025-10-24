@@ -9,28 +9,11 @@
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>SmartRuleEngine</artifactId>
+    <artifactId>utility</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-<dependencies>
-    <dependency>
-        <groupId>org.jetbrains</groupId>
-        <artifactId>annotations</artifactId>
-    </dependency>
-    <dependency>
-        <groupId>com.finnote</groupId>
-        <artifactId>Utility</artifactId>
-        <version>0.0.1</version>
-    </dependency>
-    <dependency>
-        <groupId>com.finnote</groupId>
-        <artifactId>Conversion</artifactId>
-        <version>0.0.1</version>
-        <scope>test</scope>
-    </dependency>
-</dependencies>
 </project>

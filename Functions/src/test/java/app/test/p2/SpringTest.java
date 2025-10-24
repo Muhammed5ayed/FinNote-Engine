@@ -1,8 +1,8 @@
 package app.test.p2;
 
-import app.functions.factory.SpringCoreConfigFunctions;
-import app.functions.mathMethod.MathEngineMethod;
-import app.functions.mathMethod.MathMethod;
+import com.finnote.engine.function.factory.SpringCoreConfigFunctions;
+import com.finnote.engine.function.mathMethod.MathEngineMethod;
+import com.finnote.engine.function.mathMethod.MathMethod;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

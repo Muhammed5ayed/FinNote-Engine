@@ -1,7 +1,7 @@
 package app.test.p1;
 
-import app.functions.mathMethod.MathFunction;
-import app.functions.mathMethod.MathFunctions;
+import com.finnote.engine.function.mathMethod.MathFunction;
+import com.finnote.engine.function.mathMethod.MathFunctions;
 import org.springframework.stereotype.Component;
 
 @Component

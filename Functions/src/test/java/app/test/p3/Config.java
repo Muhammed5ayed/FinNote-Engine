@@ -1,7 +1,7 @@
 package app.test.p3;
 
-import app.functions.mathMethod.MathEngineMethod;
-import app.functions.mathMethod.MathFunctions;
+import com.finnote.engine.function.mathMethod.MathEngineMethod;
+import com.finnote.engine.function.mathMethod.MathFunctions;
 import app.test.p3.engine1.Triangle;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

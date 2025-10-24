@@ -1,8 +1,7 @@
 package app.functions.S;
 
-import app.functions.mathMethod.MathFunction;
-import app.functions.mathMethod.MathFunctions;
-import org.springframework.context.annotation.Configuration;
+import com.finnote.engine.function.mathMethod.MathFunction;
+import com.finnote.engine.function.mathMethod.MathFunctions;
 
 //@Configuration
 @MathFunctions(engineNames = {"engineBean","engineRegister"})

@@ -1,1 +1,1 @@
-app.MathRuleEngine.factory.SpringCoreConfigMathRuleEngine
+com.finnote.engine.math.rule.engine.factory.SpringCoreConfigMathRuleEngine

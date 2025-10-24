@@ -1,6 +1,6 @@
 package app.test.p2;
 
-import app.functions.mathMethod.MathFunctions;
+import com.finnote.engine.function.mathMethod.MathFunctions;
 
 @MathFunctions(engineNames = {"engine"})
 public class F1 {

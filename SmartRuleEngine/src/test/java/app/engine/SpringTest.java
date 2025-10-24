@@ -1,7 +1,7 @@
 package app.engine;
 
-import app.smart.rule.engine.rule.RuleFlowException;
-import app.smart.rule.engine.rule.RuleFlowEngineMethod;
+import com.finnote.engine.smart.rule.engine.rule.RuleFlowException;
+import com.finnote.engine.smart.rule.engine.rule.RuleFlowEngineMethod;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

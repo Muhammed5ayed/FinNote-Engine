@@ -4,7 +4,7 @@ import app.p1.ann.An1;
 import app.p1.ann.An2;
 import app.p1.component.SampleComponent;
 import app.p1.component.SampleConfig;
-import app.spring.utility.SpringUtilities;
+import com.finnote.engine.utility.SpringUtilities;
 import org.junit.jupiter.api.Assertions;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;

@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.finnote</groupId>
         <artifactId>finnote-engine</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <artifactId>MathRuleEngine</artifactId>
@@ -20,22 +20,22 @@
         <dependency>
             <groupId>com.finnote</groupId>
             <artifactId>Functions</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
             <artifactId>SmartRuleEngine</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
             <artifactId>Parser</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
             <artifactId>Conversion</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 </project>

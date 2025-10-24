@@ -1,8 +1,8 @@
 package app.functions.factory;
 
-import app.functions.mathMethod.MathEngineMethod;
-import app.functions.mathMethod.MathFunction;
-import app.functions.mathMethod.MathFunctions;
+import com.finnote.engine.function.mathMethod.MathEngineMethod;
+import com.finnote.engine.function.mathMethod.MathFunction;
+import com.finnote.engine.function.mathMethod.MathFunctions;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

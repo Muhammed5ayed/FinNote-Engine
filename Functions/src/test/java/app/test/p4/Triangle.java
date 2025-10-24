@@ -1,8 +1,7 @@
 package app.test.p4;
 
-import app.functions.mathMethod.MathFunction;
-import app.functions.mathMethod.MathFunctions;
-import org.springframework.context.annotation.Configuration;
+import com.finnote.engine.function.mathMethod.MathFunction;
+import com.finnote.engine.function.mathMethod.MathFunctions;
 import org.springframework.stereotype.Component;
 
 @MathFunctions(engineNames = {"engine"})

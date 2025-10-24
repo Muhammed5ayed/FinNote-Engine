@@ -22,7 +22,7 @@
 17. BigDecimal --> String
 
 <p dir="rtl">
-اذا لم يوجد اى Conversion سيقوم بانشاء واحد باسم app.conversion.MathConversion.conversion وحقنه فى ال Application Context
+اذا لم يوجد اى Conversion سيقوم بانشاء واحد باسم com.finnote.engine.conversion.MathConversion.conversion وحقنه فى ال Application Context
 </p>
 
 <p dir="rtl">

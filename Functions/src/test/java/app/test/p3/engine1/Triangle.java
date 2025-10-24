@@ -1,8 +1,7 @@
 package app.test.p3.engine1;
 
-import app.functions.mathMethod.MathEngineMethod;
-import app.functions.mathMethod.MathFunction;
-import app.functions.mathMethod.MathFunctions;
+import com.finnote.engine.function.mathMethod.MathFunction;
+import com.finnote.engine.function.mathMethod.MathFunctions;
 
 @MathFunctions()
 public class Triangle {

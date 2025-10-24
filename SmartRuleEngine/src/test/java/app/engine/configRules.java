@@ -1,8 +1,8 @@
 package app.engine;
 
-import app.smart.rule.engine.rule.RuleFlowEngineMethod;
-import app.smart.rule.engine.rule.Rule;
-import app.smart.rule.engine.rule.Rules;
+import com.finnote.engine.smart.rule.engine.rule.RuleFlowEngineMethod;
+import com.finnote.engine.smart.rule.engine.rule.Rule;
+import com.finnote.engine.smart.rule.engine.rule.Rules;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.convert.ConversionService;

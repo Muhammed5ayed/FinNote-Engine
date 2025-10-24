@@ -1,6 +1,6 @@
 package app.test.p1;
 
-import app.functions.mathMethod.MathEngineMethod;
+import com.finnote.engine.function.mathMethod.MathEngineMethod;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

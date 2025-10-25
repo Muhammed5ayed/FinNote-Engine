@@ -34,7 +34,7 @@
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>smartRuleEngine</artifactId>
+            <artifactId>smart-rule-engine</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
@@ -44,7 +44,7 @@
         </dependency>
         <dependency>
             <groupId>com.finnote</groupId>
-            <artifactId>mathRuleEngine</artifactId>
+            <artifactId>math-rule-engine</artifactId>
             <version>0.0.1</version>
         </dependency>
 
